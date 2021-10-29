@@ -1,14 +1,14 @@
 {
-  "rom_url": "https://bigota.d.miui.com/V12.5.17.0.RKACNXM/miui_STAR_V12.5.17.0.RKACNXM_9cc0f1e5a5_11.0.zip",
-  "rom_name": "update.zip",
-  "pack_sgsi": "SGSI.zip",
+  "rom_url": "http://romdownload.nubia.com/Z30Pro/V1.27/NX667J-update.zip",
+  "rom_name": "NX667J-update.zip",
+  "pack_sgsi": "SGSI-Z30Pro.zip",
   "make_type": "AB",
-  "rom_type": "miui",
-  "light_fix": true,
-  "bug_fix": true,
+  "rom_type": "nubia",
+  "light_fix": false,
+  "bug_fix": false,
   "version": "11",
-  "upload_transfer": true,
-  "upload_release": false,
+  "upload_transfer": false,
+  "upload_release": true,
   "use_7zip": true,
   "use_zip": false
 }
