@@ -1,9 +1,9 @@
 {
-  "rom_url": "http://romdownload.nubia.com/Z30Pro/V1.27/NX667J-update.zip",
-  "rom_name": "NX667J-update.zip",
-  "pack_sgsi": "SGSI-Z30Pro.zip",
+  "rom_url": "https://componentota-auto-cn.allawnfs.com/component-ota/21/10/16/53fc44a900ae444caf18fb07eb16f7cc.zip",
+  "rom_name": "53fc44a900ae444caf18fb07eb16f7cc.zip",
+  "pack_sgsi": "SGSI-ColorOS12-A.06-Oneplus9RT-zip",
   "make_type": "AB",
-  "rom_type": "nubia",
+  "rom_type": "color",
   "light_fix": false,
   "bug_fix": false,
   "version": "11",
