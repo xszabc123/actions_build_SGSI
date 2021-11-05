@@ -1,14 +1,14 @@
 {
-  "rom_url": "https://componentota-manual-cn.allawnfs.com/component-ota/21/10/16/53fc44a900ae444caf18fb07eb16f7cc.zip",
-  "rom_name": "53fc44a900ae444caf18fb07eb16f7cc.zip",
-  "pack_sgsi": "SGSI-ColorOS12-A.06-Oneplus9RT-zip",
+  "rom_url": "http://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2073_A_1.7.31-update-full_1624240784.zip",
+  "rom_name": "PD2073_A_1.7.31-update-full_1624240784.zip",
+  "pack_sgsi": "SGSI-originOS1.0-iqooz3-zip",
   "make_type": "AB",
-  "rom_type": "color",
+  "rom_type": "vivo",
   "light_fix": false,
   "bug_fix": false,
   "version": "11",
-  "upload_transfer": false,
-  "upload_release":true ,
+  "upload_transfer": true,
+  "upload_release":false ,
   "use_7zip": true,
   "use_zip": false
 }
